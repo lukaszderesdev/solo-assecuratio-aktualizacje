@@ -1,5 +1,5 @@
 {
   "version": "0.4.0",
-  "notes": "Pierwsza wersja z automatycznymi aktualizacjami.",
-  "url": "https://github.com/lukaszderesdev/solo-assecuratio-aktualizacje/releases/latest"
+  "notes": "Czytnik dokumentów z automatycznym odczytem, zmiana PIN-u i hasła, kod odzyskiwania, zgłoszenia uwag, poradnik w programie.",
+  "url": "https://github.com/lukaszderesdev/solo-assecuratio-aktualizacje/raw/main/instalatory/SoloAssecuratio_0.4.0_setup.exe"
 }
