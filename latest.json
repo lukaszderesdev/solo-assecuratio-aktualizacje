@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "notes": "Czytnik dokumentów z automatycznym odczytem, zmiana PIN-u i hasła, kod odzyskiwania, zgłoszenia uwag, poradnik w programie.",
-  "url": "https://github.com/lukaszderesdev/solo-assecuratio-aktualizacje/raw/main/instalatory/SoloAssecuratio_0.4.0_setup.exe"
+  "version": "0.4.1",
+  "notes": "Lepszy czytnik dokumentów, zwroty Pani/Pan w mailach, rozpoznawanie osoby i firmy, powiększanie podglądu dokumentu, wysuwany notatnik, oznaczone pola wymagane.",
+  "url": "https://github.com/lukaszderesdev/solo-assecuratio-aktualizacje/raw/main/instalatory/SoloAssecuratio_0.4.1_setup.exe"
 }
